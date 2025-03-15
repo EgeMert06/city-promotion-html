@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: yellow;
+}
+
+.navbar-nav .nav-link {
+    color: yellow !important;
+}
+
+.dropdown-menu {
+    background-color: #333;
+}
+
+.dropdown-menu .dropdown-item {
+    color: yellow !important;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    background-color: yellow;
+    color: black !important;
+}
